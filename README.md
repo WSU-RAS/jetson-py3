@@ -1,7 +1,7 @@
 Object Detector using Python 3
 =========================================
 
-_Note:_ This assumes you have set up the NVidia Jetson as is described in the
+**Note:** This assumes you have set up the NVidia Jetson as is described in the
 *jetson* repository README.
 
 If you want to try out TensorFlow with Python 3 rather than Python 2, you'll
